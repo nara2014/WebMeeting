@@ -1,3 +1,5 @@
+/* chat area */
+
 .name {
     font-size: 10px;
 }
@@ -50,4 +52,6 @@
 
 #output {
     width: 300px;
+    height: 400px;
+    overflow:auto;
 }
